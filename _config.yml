@@ -1,0 +1,54 @@
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+name: OS开发资料收集
+host: wiki.0xffffff.org
+desc: OS开发资料收集和翻译一些来自OSDev的wiki
+
+custom:
+    category:
+        environment: 环境相关
+        booting: 启动引导
+        debugging: 调试相关
+        development: 开发资料
+        hardware: 硬件相关
+        resources: 相关资源
+        tools: 一些工具
+    categories:
+      - name:  environment
+        title: 环境相关
+
+      - name:  booting
+        title: 启动引导
+
+      - name:  debugging
+        title: 调试相关
+
+      - name:  development
+        title: 开发资料
+
+      - name:  hardware
+        title: 硬件相关
+
+      - name:  resources
+        title: 相关资源
+
+      - name:  tools
+        title: 一些工具
+
+    scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
+
+meta:
+    author:
+        name: 刘欢
+        email: liuhuan1992@gmail.com
+        gcse: 005059010805518958949:cwkiumrmkyq     # Google自定义搜索标识ID
+        github: hurley25                            # GitHub账号
+        gravatar: 85dde318e4d8b67885ca0848a1314668  # Gravatar头像标识
+
+    gapi: http://www.google.com/jsapi               # Google API地址
+    gravatar: http://en.gravatar.com/avatar/        # Gravatar头像服务器地址
