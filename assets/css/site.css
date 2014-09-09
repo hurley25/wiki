@@ -81,8 +81,8 @@ article dl{margin:.5em .8em;}
 article dl dd{margin-left:2em;}
 article dl dd>ul,
 article dl dd>ol{padding-left:1em;}
-article pre{width:100%; overflow-x:auto; line-height:1.2em; border:1px solid #ccc; background:#F8F8FF; font-size:85%;}
-article code{margin:auto 1px; padding:auto 2px; background:#f8f8f8; font-family:"Inconsolata", "Monaco", "Consolas", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;}
+article pre{width:100%; overflow-x:auto; line-height:1.2em; border:1px solid #ccc; background:#F8F8FF; font-size:13px;}
+article code{margin:auto 1px; padding:auto 2px; background:#f8f8f8; font-family: "Consolas", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;}
 article table{border-collapse:collapse;}
 article th,article td{padding:0 10px; border:1px solid #ccc; font-size:85%;}
 article th{background:#eee; text-align:left;}
