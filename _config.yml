@@ -18,6 +18,7 @@ custom:
         hardware: 硬件相关
         resources: 相关资源
         tools: 一些工具
+        hurlex: hurlex开发文档
     categories:
       - name:  environment
         title: 环境相关
@@ -39,6 +40,9 @@ custom:
 
       - name:  tools
         title: 一些工具
+
+      - name:  hurlex
+        title: hurlex开发文档
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
