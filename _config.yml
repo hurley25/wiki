@@ -51,7 +51,7 @@ meta:
         name: 刘欢
         email: liuhuan1992@gmail.com
         gcse: 005059010805518958949:cwkiumrmkyq     # Google自定义搜索标识ID
-        github: hurley25                            # GitHub账号
+        github: hurley25/wiki                       # GitHub账号
         gravatar: 85dde318e4d8b67885ca0848a1314668  # Gravatar头像标识
 
     gapi: http://www.google.com/jsapi               # Google API地址
