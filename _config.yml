@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: OS开发资料收集
+name: x86架构操作系统内核的实现
 host: wiki.0xffffff.org
 desc: OS开发资料收集和翻译一些来自OSDev的wiki
 
